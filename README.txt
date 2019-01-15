@@ -1,6 +1,5 @@
-THEME: Connect - Free Bootstrap Theme
-AUTHOR: uiCookies.com
-AUTHOR URI: https://uiCookies.com/
+AUTHOR: Ben Barnett
+AUTHOR URL: http://benbarnett02.com/
 
 
 CREDITS:
@@ -46,3 +45,5 @@ https://unsplash.com
 
 Magnific Popup
 http://dimsemenov.com/plugins/magnific-popup/
+
+And a bunch of youtube tutorials. Cos I'm not that smart.
